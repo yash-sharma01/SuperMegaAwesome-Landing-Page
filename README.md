@@ -1,6 +1,6 @@
 # SuperMegaAwesome Landing Page
 
-This is a sample Landing Page for a store.
+A front-end design of a Landing Page for a Store.
 
 ### Watch the project live at:
 
